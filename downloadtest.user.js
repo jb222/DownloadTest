@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @include      *://www.iex.tld/*
-// @updateURL    
+// @updateURL    https://github.com/jb222/DownloadTest.git
 // @downloadURL  
 // @grant        none
 // ==/UserScript==
