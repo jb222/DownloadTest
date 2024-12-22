@@ -12,7 +12,7 @@
 
 (function() {
     'use strict';
-    // test
+    // testing
     console.log("Script:", GM_info.script.name);
     console.log("Versie:", GM_info.script.version);
 })();
