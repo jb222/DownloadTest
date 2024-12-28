@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UpdateViaGitHub
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      0.7.1
 // @description  try to take over the world!
 // @author       You
 // @include      *://www.iex.tld/*
@@ -12,7 +12,7 @@
 
 (function() {
     'use strict';
-    // testing auto update to 0.7
+    // testing auto update to 0.7.1
     console.log("Script:", GM_info.script.name);
     console.log("Versie:", GM_info.script.version);
 })();
